@@ -42,7 +42,7 @@ A cost-effective solution for recycling used 3D printer filament into reusable f
 - Fabrication Techniques: 3D printing and laser cutting
 
 **Links:**  
-- [Documentation and details](#) *[(To be added)](https://www.augmentedlabs.in/blogs/Filament-Recycler)*  
+- [Documentation and details](https://www.augmentedlabs.in/blogs/Filament-Recycler)
 
 ---
 
