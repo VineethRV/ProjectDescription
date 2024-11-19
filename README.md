@@ -59,3 +59,18 @@ A 3D-printable laser engraver designed for small-scale applications. My contribu
 **Links:**  
 - *(Links will be added once the patent process is complete.)*
 
+---
+
+## Copilot for Doctors  
+**Description:**  
+A project designed to assist doctors by handling menial cases, allowing them to focus on critical and complex situations. This "copilot" speeds up consultations for trivial cases by providing initial diagnoses and summaries for review. Operated by a nurse, the app leverages Llama 3.1 with a custom Retrieval-Augmented Generation (RAG) model to narrow down potential diagnoses and present a concise summary to the doctor.  
+
+**Tech Stacks Used:**  
+- AI Models: Llama 3.1, Custom RAG Model  
+- Backend: Python, Flask  
+- Frontend: React
+
+**Links:**  
+- [Documentation](https://github.com/sushi00/akinator_med)
+
+
