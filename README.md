@@ -48,7 +48,7 @@ A project designed to assist doctors by handling menial cases, allowing them to 
 
 ## Filament Recycler  
 **Description:**  
-A cost-effective solution for recycling used 3D printer filament into reusable filament spools. This project focuses on sustainability and affordability, bringing the cost of filament recycling machinery to under $100.  
+A cost-effective solution for recycling used 3D printer filament into reusable filament spools. This project focuses on sustainability and affordability, bringing the cost of filament recycling machinery to under $100. We also open sourced the project so that anyone can build it themselves from scratch.
 
 **Tech Stacks Used:**  
 - Mechanical Design: SolidWorks  
@@ -74,6 +74,13 @@ A dispenser designed to accurately dispense powders and liquids for chemistry la
 - [Documentation](#) *(To be added)*  
 
 ---
+
+## Other Mini Projects  
+**Description:**  
+In addition to the listed projects, I've worked on a variety of fun projects that explore different technologies and creative ideas. You can find these showcased on my YouTube channel.  
+
+**Links:**  
+- [YouTube Channel: @sKRipTOn](https://www.youtube.com/@sKRipTOn)
 
 
 ------
