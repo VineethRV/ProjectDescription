@@ -17,35 +17,6 @@ A software solution that automates the process of creating timetables for colleg
 
 ---
 
-## Solid/Liquid Dispenser  
-**Description:**  
-A dispenser designed to accurately dispense powders and liquids for chemistry labs. This project drastically reduced the machine's cost from several lakhs to just ₹1500. An offshoot of this project, the liquid-only dispenser, further reduced costs from ₹25,000 to just ₹20–30.  
-
-**Tech Stacks Used:**  
-- Mechanical Design: SolidWorks  
-- Electronics and Control: Arduino, Embedded C, MIT app inventor
-- Fabrication Techniques: 3D printing
-
-**Links:**  
-- [Project Demo/Website](#) *(To be added)*  
-- [Documentation](#) *(To be added)*  
-
----
-
-## Filament Recycler  
-**Description:**  
-A cost-effective solution for recycling used 3D printer filament into reusable filament spools. This project focuses on sustainability and affordability, bringing the cost of filament recycling machinery to under $100.  
-
-**Tech Stacks Used:**  
-- Mechanical Design: SolidWorks  
-- Electronics and Control: Arduino, Embedded C  
-- Fabrication Techniques: 3D printing and laser cutting
-
-**Links:**  
-- [Documentation and details](https://www.augmentedlabs.in/blogs/Filament-Recycler)
-
-------
-
 ## Mini Laser Engraver (Patent pending)  
 **Description:**  
 A 3D-printable laser engraver designed for small-scale applications. My contribution involved making the product fully 3D-printable and reinforcing its structure for better stability and durability. The project is currently patent-pending.  
@@ -72,5 +43,42 @@ A project designed to assist doctors by handling menial cases, allowing them to 
 
 **Links:**  
 - [Documentation](https://github.com/sushi00/akinator_med)
+- 
+---
+
+## Filament Recycler  
+**Description:**  
+A cost-effective solution for recycling used 3D printer filament into reusable filament spools. This project focuses on sustainability and affordability, bringing the cost of filament recycling machinery to under $100.  
+
+**Tech Stacks Used:**  
+- Mechanical Design: SolidWorks  
+- Electronics and Control: Arduino, Embedded C  
+- Fabrication Techniques: 3D printing and laser cutting
+
+**Links:**  
+- [Documentation and details](https://www.augmentedlabs.in/blogs/Filament-Recycler)
+
+---
+
+## Solid/Liquid Dispenser  
+**Description:**  
+A dispenser designed to accurately dispense powders and liquids for chemistry labs. This project drastically reduced the machine's cost from several lakhs to just ₹1500. An offshoot of this project, the liquid-only dispenser, further reduced costs from ₹25,000 to just ₹20–30.  
+
+**Tech Stacks Used:**  
+- Mechanical Design: SolidWorks  
+- Electronics and Control: Arduino, Embedded C, MIT app inventor
+- Fabrication Techniques: 3D printing
+
+**Links:**  
+- [Project Demo/Website](#) *(To be added)*  
+- [Documentation](#) *(To be added)*  
+
+---
+
+
+------
+
+
+
 
 
