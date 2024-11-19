@@ -12,8 +12,8 @@ A software solution that automates the process of creating timetables for colleg
 - Online Version: Next.js, TypeScript  (In development)
 
 **Links:**  
-- [Local Verison](#) *https://github.com/Shreya5619/TimeTable-Architect.git*  
-- [Online Verision](#) *https://github.com/VineethRV/timetablearchitect*  
+- [Local Verison](https://github.com/Shreya5619/TimeTable-Architect.git)  
+- [Online Verision](https://github.com/VineethRV/timetablearchitect) 
 
 ---
 
