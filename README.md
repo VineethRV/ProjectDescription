@@ -9,11 +9,11 @@ A software solution that automates the process of creating timetables for colleg
 
 **Tech Stacks Used:**  
 - Local Version: C#, C++  
-- Online Version: Next.js, TypeScript  
+- Online Version: Next.js, TypeScript  (In development)
 
 **Links:**  
-- [Project Demo/Website](#) *(To be added)*  
-- [Documentation](#) *(To be added)*  
+- [Local Verison](#) *https://github.com/Shreya5619/TimeTable-Architect.git*  
+- [Online Verision](#) *https://github.com/VineethRV/timetablearchitect)*  
 
 ---
 
