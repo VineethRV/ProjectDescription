@@ -44,6 +44,18 @@ A cost-effective solution for recycling used 3D printer filament into reusable f
 **Links:**  
 - [Documentation and details](https://www.augmentedlabs.in/blogs/Filament-Recycler)
 
----
+------
 
-*(More projects will be added as the repository grows.)*
+## Mini Laser Engraver (Patent pending)  
+**Description:**  
+A 3D-printable laser engraver designed for small-scale applications. My contribution involved making the product fully 3D-printable and reinforcing its structure for better stability and durability. The project is currently patent-pending.  
+
+
+**Tech Stacks Used:**  
+- Mechanical Design: SolidWorks  
+- Control: Arduino, laserGRBL  
+- Fabrication Techniques: 3D printing 
+
+**Links:**  
+- *(Links will be added once the patent process is complete.)*
+
