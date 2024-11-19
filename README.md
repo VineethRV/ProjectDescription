@@ -1,4 +1,4 @@
-# Projects by [Your Name]  
+# Projects by Vineeth Rao  
 Welcome to the repository showcasing all the projects I’ve worked on. Each project reflects my passion for innovation and problem-solving, leveraging a variety of technologies to create impactful solutions.
 
 ---
@@ -42,7 +42,7 @@ A cost-effective solution for recycling used 3D printer filament into reusable f
 - Fabrication Techniques: 3D printing and laser cutting
 
 **Links:**  
-- Project Documentation and details:(#) Augmentedlabs.in/3dprinting  
+- [Documentation and details](#) *[(To be added)](https://www.augmentedlabs.in/blogs/Filament-Recycler)*  
 
 ---
 
