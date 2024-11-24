@@ -43,7 +43,6 @@ A project designed to assist doctors by handling menial cases, allowing them to 
 
 **Links:**  
 - [Documentation](https://github.com/sushi00/akinator_med)
-- 
 ---
 
 ## Filament Recycler  
